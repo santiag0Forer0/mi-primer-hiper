@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mi-primer-hiper/static/css/main.f855e6bc.css",
+    "main.js": "/mi-primer-hiper/static/js/main.8b8655ea.js",
+    "static/js/453.96dc5c0f.chunk.js": "/mi-primer-hiper/static/js/453.96dc5c0f.chunk.js",
+    "static/media/logo.svg": "/mi-primer-hiper/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mi-primer-hiper/index.html",
+    "main.f855e6bc.css.map": "/mi-primer-hiper/static/css/main.f855e6bc.css.map",
+    "main.8b8655ea.js.map": "/mi-primer-hiper/static/js/main.8b8655ea.js.map",
+    "453.96dc5c0f.chunk.js.map": "/mi-primer-hiper/static/js/453.96dc5c0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8b8655ea.js"
+  ]
+}
